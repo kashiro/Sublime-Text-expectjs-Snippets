@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+expect(${0}).to.throwError(${1});
+]]></content>
+  <tabTrigger>ett</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

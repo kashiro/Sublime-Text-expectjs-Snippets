@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+expect(${0}).to.match(${1});
+]]></content>
+  <tabTrigger>etm</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

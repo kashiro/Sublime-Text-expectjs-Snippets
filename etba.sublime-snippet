@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+expect(${0}).to.be.a(${1});
+]]></content>
+  <tabTrigger>etba</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+expect(${0}).to.eql(${1});
+]]></content>
+  <tabTrigger>ete</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

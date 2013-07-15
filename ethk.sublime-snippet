@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+expect(${0}).to.have.key(${1});
+]]></content>
+  <tabTrigger>ethk</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

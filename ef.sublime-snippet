@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+expect(${0}).fail(${1});
+]]></content>
+  <tabTrigger>ef</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
