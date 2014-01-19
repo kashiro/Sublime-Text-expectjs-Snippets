@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-expect(${0}).to.only.have.keys(${1});
+expect(${1}).to.only.have.keys(${2});
 ]]></content>
   <tabTrigger>etohk</tabTrigger>
   <scope>source.js</scope>

@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-expect(${0}).fail(${1});
+expect(${1}).fail(${2});
 ]]></content>
   <tabTrigger>ef</tabTrigger>
   <scope>source.js</scope>

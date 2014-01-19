@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-expect(${0}).to.contain(${1});
+expect(${1}).to.contain(${2});
 ]]></content>
   <tabTrigger>etc</tabTrigger>
   <scope>source.js</scope>

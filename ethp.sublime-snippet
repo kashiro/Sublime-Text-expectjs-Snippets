@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-expect(${0}).to.have.property(${1});
+expect(${1}).to.have.property(${2});
 ]]></content>
   <tabTrigger>ethp</tabTrigger>
   <scope>source.js</scope>

@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-expect(${0}).to.match(${1});
+expect(${1}).to.match(${2});
 ]]></content>
   <tabTrigger>etm</tabTrigger>
   <scope>source.js</scope>

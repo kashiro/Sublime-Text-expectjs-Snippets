@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-expect(${0}).to.be.an(${1});
+expect(${1}).to.be.an(${2});
 ]]></content>
   <tabTrigger>etban</tabTrigger>
   <scope>source.js</scope>

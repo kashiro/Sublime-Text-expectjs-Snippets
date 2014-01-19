@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-expect(${0}).to.eql(${1});
+expect(${1}).to.eql(${2});
 ]]></content>
   <tabTrigger>ete</tabTrigger>
   <scope>source.js</scope>

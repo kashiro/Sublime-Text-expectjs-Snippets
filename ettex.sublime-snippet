@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-expect(${0}).to.throwException(${1});
+expect(${1}).to.throwException(${2});
 ]]></content>
   <tabTrigger>ett</tabTrigger>
   <scope>source.js</scope>

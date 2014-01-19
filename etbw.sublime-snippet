@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-expect(${0}).to.be.within(${1}, ${2});
+expect(${1}).to.be.within(${2}, ${3});
 ]]></content>
   <tabTrigger>etbw</tabTrigger>
   <scope>source.js</scope>

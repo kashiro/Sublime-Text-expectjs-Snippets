@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-expect(${0}).withArgs(${1}, ${2}).to.throwException();
+expect(${1}).withArgs(${2}, ${3}).to.throwException();
 ]]></content>
   <tabTrigger>ewtt</tabTrigger>
   <scope>source.js</scope>
